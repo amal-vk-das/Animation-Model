@@ -53,7 +53,7 @@ scene.add(directionalLight)
 
 let mixer;
 const gltfLoader = new GLTFLoader();
-const url = "/humanoidRobo/scene.gltf";
+const url = "/public/humanoidRobo/scene.gltf";
 // const url = "/test.gltf";
 // const url = "/buster_drone/scene.gltf";
 gltfLoader.load(url, (gltf) => {
