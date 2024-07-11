@@ -51,9 +51,10 @@ const directionalLight = new THREE.DirectionalLight(0xffffff,5);
 directionalLight.position.set(10, 25, 0);
 scene.add(directionalLight)
 
+
 let mixer;
 const gltfLoader = new GLTFLoader();
-const url = "/public/humanoidRobo/scene.gltf";
+const url ="./public//humanoidRobo/scene.gltf";
 // const url = "/test.gltf";
 // const url = "/buster_drone/scene.gltf";
 gltfLoader.load(url, (gltf) => {
