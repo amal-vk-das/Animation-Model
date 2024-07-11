@@ -1,0 +1,11 @@
+Model Information:
+* title:	H.A.I - Human Android Integration
+* source:	https://sketchfab.com/3d-models/hai-human-android-integration-eaeba2b75aac4d4ca56b509cc5e3d584
+* author:	Count Infinity (https://sketchfab.com/countinfinity)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "H.A.I - Human Android Integration" (https://sketchfab.com/3d-models/hai-human-android-integration-eaeba2b75aac4d4ca56b509cc5e3d584) by Count Infinity (https://sketchfab.com/countinfinity) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
